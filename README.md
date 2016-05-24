@@ -1,4 +1,4 @@
-# angular-express-routes
-Angular JS routes ( Single Page app ) with Express and Node JS as backend 
+# MEAN APP (SPA)
+MongoDB - ExpressJS - AngularJS - NodeJS
 
-h1 Angular JS single page app with epxress and node js as background
+Single Page Application with MEAN Si(a)mple Template
